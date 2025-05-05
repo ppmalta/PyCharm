@@ -1,1 +1,2 @@
-# PyCharm
+# IDE's: Testing [![Pycharm](https://img.shields.io/badge/Pycharm-%2300C4F4?style=for-the-badge&logo=pycharm&logoColor=%230d0e0d&logoSize=auto&labelColor=rgb&color=%2300C4F4)](https://www.jetbrains.com/pycharm/download/other.html) [![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-%23FE2857?style=for-the-badge&logo=intellijidea&logoColor=%230d0e0d&logoSize=auto&labelColor=rgb&color=%23FE2857)](https://www.jetbrains.com/pt-br/idea/download/other.html)
+[![DataGrip](https://img.shields.io/badge/DataGrip-Green?style=for-the-badge&logo=datagrip&logoColor=%230d0e0d&logoSize=auto&labelColor=rgb&color=%2300D980)](https://www.jetbrains.com/pt-br/datagrip/download/other.html)
